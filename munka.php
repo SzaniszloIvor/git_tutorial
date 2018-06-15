@@ -21,7 +21,13 @@ $y = 19;
 
 print "<br /><br />" . $x - $y;
 
+// Szorzas
+//------------------
 
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br /><br />";
 
 
 
