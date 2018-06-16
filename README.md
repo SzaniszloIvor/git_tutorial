@@ -10,3 +10,7 @@
 1. lista elem
 2. lista elem
 3. lista elem
+
+Webtanár: http://webtanar.hu
+
+[webtanár weblapja](webtanar.hu)
