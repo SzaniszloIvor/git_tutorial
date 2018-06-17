@@ -22,8 +22,9 @@ print $a + $b+ $c;
 $x = 15;
 $y = 59;
 $z = 370;
+$p = 420;
 
-print "<br /><br />" . $z - $y - $x;
+print "<br /><br />" . $z - $y - $x - $p . "<br /><br />" ; // erre is büszke vagyok! :-P
 
 // Szorzas
 //------------------
