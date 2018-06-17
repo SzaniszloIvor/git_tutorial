@@ -52,4 +52,6 @@ print ($egyik / $masik) . "<br /><br />";
 
 // saját gépen frissítve
 
+// a kód ezzel a sorral bővült
+
 ?>
