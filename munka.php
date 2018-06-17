@@ -15,6 +15,8 @@ print $a + $b+ $c;
 
 //Githubon szerkesztve
 
+print $b + $d;
+
 
 // Kivonás
 //------------------
