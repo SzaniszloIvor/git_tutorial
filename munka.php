@@ -50,4 +50,6 @@ print ($egyik / $masik) . "<br /><br />";
 
 // Itt a vége! :- )
 
+// saját gépen frissítve
+
 ?>
